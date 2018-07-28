@@ -98,7 +98,7 @@ private int[] getNext(String pattern) {
   // 第一位设为-1，方便判断当前位置是否为搜索词的最开始
 	next[0] = -1;
 	int i = 0;
-	int j = 0;
+	int j = -1;
 
 	while(i < p.length - 1) {
 		if (j == -1 || p[i] == p[j]) {
