@@ -50,4 +50,5 @@ Java 中不允许直接创建泛型数组，所以并不建议通过各种方式
 
 参考文章：
 [[1]][java为什么不支持泛型数组？ - 胖胖的回答 - 知乎](https://www.zhihu.com/question/20928981/answer/117521433)
+
 [[2]][Java 泛型总结（二）：泛型与数组](https://segmentfault.com/a/1190000005179147)
